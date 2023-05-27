@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Slackside+One&display=swap');
+
+body {
+	display: flex;
+	justify-content: center;
+	background: lightblue;
+}
+
+h1 {
+	font-size: 200px;
+	color: white;
+	font-family: 'Slackside One', cursive;
+}
